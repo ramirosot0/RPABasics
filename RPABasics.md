@@ -47,8 +47,6 @@ This phase is where the execution of the bots take place following deployment. B
 
  # Top RPA Vendors
 
-## Choosing the right vendor will help organizations to explore the full potential of robotic process automation.
-
 
 ## Blue Prism
 ![alt text](https://static.javatpoint.com/tutorial/rpa/images/top-rpa-vendors.png)
