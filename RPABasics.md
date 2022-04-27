@@ -47,7 +47,7 @@ This phase is where the execution of the bots take place following deployment. B
 
  # Top RPA Vendors
 
-  Choosing the right vendor will help organizations to explore the full potential of robotic process automation.
+## Choosing the right vendor will help organizations to explore the full potential of robotic process automation.
 
 ![alt text](https://static.javatpoint.com/tutorial/rpa/images/top-rpa-vendors.png)
 
@@ -57,11 +57,15 @@ Blue Prism is the registered name of the Blue Prism Limited, which is a UK based
 
 Blue Prism is one of the top automation companies that invented the term 'Robotic Process Automation'. It uses business rules to automate the digital workforce in various ways. It plays a significant role in different sectors, such as investment firms, Banking Groups, E-commerce, etc.
 
+![alt text](https://static.javatpoint.com/tutorial/rpa/images/top-rpa-vendors2.png)
 
 ## UiPath
 It is a world-leading RPA company which provides solutions according to the particular industry, technology, and processes. It was introduced in 2005. The headquarter of Blue Prism was established in New York, United States.
 
 UiPath provides an RPA platform to automate digital business processes across front-end and back-end office tasks. It includes products such as studio, software robots, and orchestrator. It provides solutions in various sectors such as Banking, Finance, BPO (Business Process Outsourcing),Insurance, Retail, Telecom, Manufacturing, Healthcare, Public Sector, etc. It allows users to perform Web Automation, Desktop Automation, GUI (Graphical User Interface) Automation, SAP Automation, Mainframe Automation, Citrix Automation, Excel Automation, Screen Scraping, and Screen Recorder, etc.
+
+![alt text](https://static.javatpoint.com/tutorial/rpa/images/top-rpa-vendors4.png)
+
 
 ## Pegasystems
 It is one of the top vendors in the field of robotic process automation industry. It is a US-based robotic process automation company. It was introduced in 1983. It offers solutions in digital process automation, business process management, and customer relationship management.
@@ -69,6 +73,14 @@ It is one of the top vendors in the field of robotic process automation industry
 Some of the top services of the Pega platform are application development, chatbots & virtual assistants, case management, decision management, workforce intelligence, DevOps
 & testing, mobility, and robotic automation. Pega provides everything that the organizations may require to transform the processes digitally.
 
+
+## Other vendors
+- NICE
+- Contextor
+- WorkFusion
+- Softomotive
+- Kofax Kapow
+- +50
 
 
 
