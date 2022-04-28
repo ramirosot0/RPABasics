@@ -75,6 +75,9 @@ Some of the top services of the Pega platform are application development, chatb
 - Kofax Kapow
 - +50
 
+Sources: https://www.javatpoint.com/top-rpa-vendors
+         https://www.askeygeek.com/companies-using-robotic-process-automation/#0-list-of-companies-using-robotic-process-automation
+
 
 
 
